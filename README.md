@@ -1,1 +1,1 @@
-# click_info
+# Alpine.js kullanılmıştır
